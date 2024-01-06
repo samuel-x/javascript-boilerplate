@@ -1,0 +1,10 @@
+{
+  "name": "discord-bot-tutorial",
+  "version": "1.0.0",
+  "description": "This is a discord bot tutorial!",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "run": "node ./index.js"
+  }
+}
